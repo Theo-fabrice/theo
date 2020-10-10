@@ -1,0 +1,30 @@
+h3{
+	text-align: center;
+	color: green;
+}
+#ex{
+	text-align: center;
+}
+#sex{
+	text-align: right;
+}
+button{
+	border-radius: 5px;
+
+}
+
+.bouton{
+	margin-left: 300px;
+}
+p{
+	text-align: justify;
+	font-family: initial;
+}
+#ce{
+	height: 350px;
+	width: 100%;
+}
+h2{
+	font-family: initial;
+	color: grey;
+}
